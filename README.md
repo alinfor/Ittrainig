@@ -43,5 +43,4 @@ Les deux modules ont été construits en utilisant les technologies suivantes :
 
 1. Clonez les deux dépôts GitHub du projet :
    ```bash
-   git clone https://github.com/alinfor/akdemia-gp4e-business.git
-   git clone https://github.com/alinfor/akdemia-gp4e-ws.git
+   git clone https://github.com/alinfor/Ittrainig.git
